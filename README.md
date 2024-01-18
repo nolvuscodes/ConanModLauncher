@@ -1,5 +1,4 @@
 # **Conan Mod Launcher**
-[GEF-GAMING.DE](http://www.gef-gaming.de)
 ---
 ![alt text](https://i.imgur.com/gd8efir.png)
 
@@ -25,7 +24,7 @@ Added later:
 
 
 **See my ConanServerManager for automatic ServerSetup and Mod download/setup from your collection**
-[](https://github.com/david-maus/ConanServerManager)
+[Conan Server Manager](https://github.com/nolvuscodes/ConanServerManager)
 
 ---
 
@@ -39,18 +38,13 @@ Added later:
  - In your mod collection you can write anywhere in the description: "CMLCONNECT: ip:port". The launcher will find the text and connects on launch to the server.
 
 
- **Please see my own Collection and description here:**
-
- [http://steamcommunity.com/sharedfiles/filedetails/?id=1314462790](http://steamcommunity.com/sharedfiles/filedetails/?id=1314462790)
-
-
 **You can test it with the collection url**
 
 ---
 
 ## **How to install**
 
-1. Download the Conan Mod Launcher [here](https://github.com/david-maus/ConanModLauncher/archive/master.zip)
+1. Download the Conan Mod Launcher [here](https://github.com/nolvuscodes/ConanModLauncher/archive/master.zip)
 2. Extract it anywhere
 
 ---
@@ -76,4 +70,4 @@ Added later:
 
 ## Repository
 
-[https://github.com/david-maus/ConanModLauncher](https://github.com/david-maus/ConanModLauncher)
+[https://github.com/nolvuscodes/ConanModLauncher](https://github.com/nolvuscodes/ConanModLauncher)
